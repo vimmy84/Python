@@ -1,5 +1,5 @@
 count = 1
-sum = 0
+bumphat sdkshdsk asash  ths part is added"come get me"
 print("Before :", sum)
 for i in (1,3,5,7,9):
     num = i
